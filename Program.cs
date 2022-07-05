@@ -22,7 +22,7 @@ namespace Loops
             string userInput = "0";
             float currencyCount;
 
-            Console.WriteLine("Добро пожаловть в путнк обмена валют!");
+            Console.WriteLine("Добро пожаловть в путнкт обмена валют!");
             Console.WriteLine("Здесь можно обменять рубли, доллары и юани");
             Console.Write("Введите количество рублей у вас на счету: ");
             rub = Convert.ToSingle (Console.ReadLine());
